@@ -1,6 +1,8 @@
 # acortador-url
 un acortador de url escrito en python
 ## Instalación:
+git clone https://github.com/dev-d718/acortador-url.git
+cd acortador-url 
 pip3  install -r requirements.txt 
 ## Uso:
 python3 dev-d-acortador-d.py 
