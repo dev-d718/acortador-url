@@ -91,7 +91,7 @@ def Main() :
 
     iurl = input("\nPon aqui tu url : ")
 
-    postname = input("\nNombre para el enlace de la publicación (ej:trucos increíbles) : ")    
+    postname = input("\n-Nombre para el enlace de la publicación (ej:separa-siempre-las-palabras-que-quieras-asi-con "-") : ")    
 
     url = "https://www.shorturl.at/shortener.php"
     data = {"u": iurl}
