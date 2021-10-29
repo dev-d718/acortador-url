@@ -14,6 +14,6 @@ solo están activas las 7 primeras opciones...
 ![Captura de pantalla -2021-10-29 08-58-31](https://user-images.githubusercontent.com/70846693/139390381-56cfe4e1-72a4-45e1-bd2f-3e1127388829.png)
 
 ![Captura de pantalla -2021-10-29 08-59-36](https://user-images.githubusercontent.com/70846693/139390405-61bda52f-07fc-4fce-83e6-1ce172704c41.png)
-# proximamente:
+# Proximamente:
 * se agregará el resto de opciones aun no funcionales...del 7 al ultimo
 * es posible que se implementen mas numeros de opciones
